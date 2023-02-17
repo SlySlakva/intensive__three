@@ -156,12 +156,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "nyc.scatter.depthkit.core": {
-      "version": "file:/Users/imraali/Desktop/Depthkit_Studio_Expansion_Package_Phase8_030722/depthkit.core",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
