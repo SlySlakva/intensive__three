@@ -1,0 +1,22 @@
+{
+  "name": "nyc.scatter.depthkit.studio.meshsequence",
+  "version": "0.3.0",
+  "displayName": "Depthkit Studio Mesh Sequence Export",
+  "description": "Use the Depthkit Studio Mesh Sequence Export Package to export sequences of Depthkit Studio captures into a geometry-based file format. Use this in combination with the Depthkit Image Sequence Player to avoid dropped frames and compression artifacts.",
+  "unity": "2020.3",
+    "dependencies": {
+        "nyc.scatter.depthkit.core": "0.12.1",
+        "nyc.scatter.depthkit.studio": "0.8.2",
+        "nyc.scatter.depthkit.streamingimagesequenceplayer": "0.2.1"
+    },
+  "keywords": [
+    "Depthkit",
+    "Volumetric",
+    "Scatter"
+  ],
+  "author": {
+    "name": "Scatter",
+    "email": "support@depthkit.tv",
+    "url": "https://www.depthkit.tv"
+  }
+}

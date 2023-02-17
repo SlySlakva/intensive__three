@@ -1,0 +1,23 @@
+{
+  "name": "nyc.scatter.depthkit.streamingimagesequenceplayer",
+  "version": "0.2.1",
+  "displayName": "Depthkit Image Sequence Player",
+  "description": "Use the Depthkit Image Sequence Player to playback Depthkit captures as combined-per-pixel image sequences using Unity’s Streaming Image Sequence Player.",
+  "unity": "2020.3",
+  "dependencies": {
+    "nyc.scatter.depthkit.core": "0.12.1",
+    "com.unity.streaming-image-sequence": "0.14.2-preview"
+  },
+  "samples": [],
+  "keywords": [
+    "Depthkit",
+    "Volumetric",
+    "Scatter"
+  ],
+  "author": {
+    "name": "Scatter",
+    "email": "support@depthkit.tv",
+    "url": "https://www.depthkit.tv"
+  },
+  "type": "library"
+}

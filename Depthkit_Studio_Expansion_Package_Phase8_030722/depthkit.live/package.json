@@ -1,0 +1,22 @@
+{
+  "name": "nyc.scatter.depthkit.live",
+  "version": "0.2.2",
+  "displayName": "Depthkit Spout Livestream Player",
+  "description": "Use the Depthkit Spout Livestream Player to receive Depthkit combined-per-pixel livestreams using the Spout receiver from Keijiro Takahshi.\n\nNote this requires configuring Keijiro’s registry as a Scoped Registry in Package Manager Settings. Read how to do this here: https://github.com/keijiro/KlakSpout",
+  "unity": "2020.3",
+  "dependencies": {
+    "jp.keijiro.klak.spout": "2.0.3",
+    "nyc.scatter.depthkit.core": "0.12.0"
+  },
+  "samples": [],
+  "keywords": [
+    "Depthkit",
+    "Volumetric",
+    "Scatter"
+  ],
+  "author": {
+    "name": "Scatter",
+    "email": "support@depthkit.tv",
+    "url": "https://www.depthkit.tv"
+  }
+}

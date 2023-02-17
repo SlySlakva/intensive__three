@@ -1,0 +1,23 @@
+{
+    "name": "Depthkit.AVPro",
+    "references": [
+        "GUID:3ca842002c51d0a43b73e45298809a13",
+        "GUID:d757665d4a59fe94bab8bd5391e60e3d"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

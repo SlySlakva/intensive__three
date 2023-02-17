@@ -1,0 +1,23 @@
+{
+    "name": "Depthkit.Core.VFX",
+    "references": [
+        "GUID:d04eb9c554ad44ceab303cecf0c0cf82",
+        "GUID:d757665d4a59fe94bab8bd5391e60e3d"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
